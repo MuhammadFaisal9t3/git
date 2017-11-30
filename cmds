@@ -13,3 +13,4 @@ git commit
 git commit -m 'change app.js'
 touch .gitignore
 mkdir directory
+git branch mybranch
