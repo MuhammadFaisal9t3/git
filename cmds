@@ -15,3 +15,8 @@ touch .gitignore
 mkdir directory
 git branch mybranch
 git checkout mybranch
+git checkout master
+git merge mybranch
+git remote
+git remote add origin https://github.com/MuhammadFaisal9t3/git.git
+git push -u origin master
