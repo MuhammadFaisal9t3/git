@@ -10,3 +10,4 @@ git add *.html
 git add .
 # make changes in the file and add the changed files into the staging area
 git commit
+git commit -m 'change app.js'
