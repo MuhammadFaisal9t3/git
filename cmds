@@ -1,0 +1,12 @@
+touch indes.html
+git init
+git config --global user.name 'mfaisal'
+git config --global user.email 'mfaisal@outlook.com'
+git add index.html
+git status
+git rm --cached index.html
+git status
+git add *.html
+git add .
+# make changes in the file and add the changed files into the staging area
+git commit
